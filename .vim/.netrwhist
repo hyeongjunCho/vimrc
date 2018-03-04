@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/george/CS341/.git'
+let g:netrw_dirhist_2='/home/george/otlplus/otlplus'
+let g:netrw_dirhist_3='/home/george/spool/mail'
+let g:netrw_dirhist_4='/home/sparcs/wheel/trac/plugins'
+let g:netrw_dirhist_5='/home/sparcs/mail/archive/wheel/2017'
+let g:netrw_dirhist_6='/home/george/.oh-my-zsh'
+let g:netrw_dirhist_7='/home/george/proxy2/tiny'
